@@ -12,7 +12,7 @@ using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace API.Controllers
+namespace API.Controller
 {
     public class AccountController : BaseApiController
     {

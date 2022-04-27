@@ -14,7 +14,7 @@ using System.Security.Claims;
 using API.Extensions;
 using API.Helpers;
 
-namespace API.Controllers
+namespace API.Controller
 {
     [Authorize]
     public class UsersController : BaseApiController

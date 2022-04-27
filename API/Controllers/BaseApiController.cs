@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using API.Helpers;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API.Controllers
+namespace API.Controller
 {
     [ServiceFilter(typeof(LogUserActivity))]
     [ApiController]

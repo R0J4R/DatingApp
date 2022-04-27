@@ -7,7 +7,7 @@ using API.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API.Controllers
+namespace API.Controller
 {
     public class BuggyController : BaseApiController
     {
